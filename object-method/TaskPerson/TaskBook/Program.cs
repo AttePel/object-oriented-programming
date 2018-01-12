@@ -18,8 +18,6 @@ namespace TaskBook
 
 			Console.WriteLine($"{newBook2.CompareBook(newBook)}");
 			Console.WriteLine($"{newBook3.CompareBook(newBook)}");
-
-
 			Console.ReadKey();
 
 		}

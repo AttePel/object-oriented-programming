@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Dev\object-oriented-programming\object-method\Book.cs" Link="Book.cs" />
+  </ItemGroup>
+
 </Project>

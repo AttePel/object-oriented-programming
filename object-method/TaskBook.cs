@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TaskBook
 {
-	class Book
+	class TaskBook
 	{
 		//Fields
 		public string Title;

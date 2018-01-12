@@ -9,7 +9,11 @@ namespace TaskPerson
 			Console.OutputEncoding = System.Text.Encoding.UTF8;
 			Person personMatti = new Person();
 			personMatti.Name = "Matti";
+			Console.WriteLine($"Matin ikä: {personMatti.GetAge()}");
+
 			personMatti.GrowOld();
+			Console.WriteLine($"Matin ikä: {personMatti.GetAge()}");
+			personMatti.GrowOld(50);
 			personMatti.PrintPersonInfo();
 
 			Person newPerson = new Person("Joe Doe", 18);

@@ -9,7 +9,7 @@ namespace TextCar
 		//Car info
 
 		public string Brand;
-		public int Speed;
+		public double Speed;
 
 		//Constructor
 
@@ -35,11 +35,10 @@ namespace TextCar
 		{
 			Console.WriteLine("Anna luku, jolla auton nopeus kerrotaan");
 			double speed1 = double.Parse(Console.ReadLine());
-
 			if (speed1 < 1)
 				Console.WriteLine($"Negatiivinen luku ei sallitu");
 			else
-			Console.WriteLine($"Auton nopeus nostettiin {speed1} kertaiseksi, uusi nopeus on {speed1 * Speed} km/h\n");
+				Console.WriteLine($"Auton nopeus nostettiin {speed1} kertaiseksi, uusi nopeus on {speed1 * Speed} km/h\n");
 
 		}
 		public void Brake()

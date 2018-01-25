@@ -12,11 +12,13 @@ namespace TextCar
 			newCar.AskData();
 			newCar.showCarInfo();
 			newCar.Accelerate();
+			newCar.Brake();
 
 			Car newCar2 = new Car();
 			newCar2.AskData();
 			newCar2.showCarInfo();
 			newCar2.Accelerate();
+			newCar2.Brake();
 
 			Console.ReadKey();
 		}

@@ -1,0 +1,10 @@
+C:\Dev\object-oriented-programming\object-method\TaskBook2.0\TaskBook2.0\bin\Debug\netcoreapp1.1\TaskBook2.0.deps.json
+C:\Dev\object-oriented-programming\object-method\TaskBook2.0\TaskBook2.0\bin\Debug\netcoreapp1.1\TaskBook2.0.runtimeconfig.json
+C:\Dev\object-oriented-programming\object-method\TaskBook2.0\TaskBook2.0\bin\Debug\netcoreapp1.1\TaskBook2.0.runtimeconfig.dev.json
+C:\Dev\object-oriented-programming\object-method\TaskBook2.0\TaskBook2.0\bin\Debug\netcoreapp1.1\TaskBook2.0.dll
+C:\Dev\object-oriented-programming\object-method\TaskBook2.0\TaskBook2.0\bin\Debug\netcoreapp1.1\TaskBook2.0.pdb
+C:\Dev\object-oriented-programming\object-method\TaskBook2.0\TaskBook2.0\obj\Debug\netcoreapp1.1\TaskBook2.0.csprojResolveAssemblyReference.cache
+C:\Dev\object-oriented-programming\object-method\TaskBook2.0\TaskBook2.0\obj\Debug\netcoreapp1.1\TaskBook2.0.csproj.CoreCompileInputs.cache
+C:\Dev\object-oriented-programming\object-method\TaskBook2.0\TaskBook2.0\obj\Debug\netcoreapp1.1\TaskBook2.0.AssemblyInfo.cs
+C:\Dev\object-oriented-programming\object-method\TaskBook2.0\TaskBook2.0\obj\Debug\netcoreapp1.1\TaskBook2.0.dll
+C:\Dev\object-oriented-programming\object-method\TaskBook2.0\TaskBook2.0\obj\Debug\netcoreapp1.1\TaskBook2.0.pdb

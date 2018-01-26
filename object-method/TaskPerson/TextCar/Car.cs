@@ -27,7 +27,7 @@ namespace TextCar
 			Brand = Console.ReadLine();
 			Speed = int.Parse(Console.ReadLine());
 		}
-		public void showCarInfo()
+		public void ShowCarInfo()
 		{
 			Console.WriteLine($"Auton merkki on: {Brand}\nAuton nopeus on: {Speed} km/h\n");
 		}

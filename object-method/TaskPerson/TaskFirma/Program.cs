@@ -7,7 +7,11 @@ namespace TaskFirma
         static void Main(string[] args)
         {
 			Console.OutputEncoding = System.Text.Encoding.UTF8;
-			firma newFirma
+			Firma newfirma = new Firma();
+			newfirma.AskData();
+			newfirma.ShowCompanyInfo();
+			newfirma.CompanyProfitCalculate();
+			Console.ReadKey();
         }
     }
 }

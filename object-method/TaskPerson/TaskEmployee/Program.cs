@@ -17,7 +17,7 @@ namespace TaskEmployee
 			}
 			employees[1].CompareSalary(employees[2]);
 			employees[0].CompareSalary(employees[1]);
-			employees[2].CompareSalary(employees[0]);
+			employees[2].CompareSalary(employees[01]);
 			Console.ReadKey();
 		}
 	}

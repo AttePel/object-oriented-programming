@@ -1,0 +1,10 @@
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskAuthor\bin\Debug\netcoreapp1.1\TaskAuthor.deps.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskAuthor\bin\Debug\netcoreapp1.1\TaskAuthor.runtimeconfig.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskAuthor\bin\Debug\netcoreapp1.1\TaskAuthor.runtimeconfig.dev.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskAuthor\bin\Debug\netcoreapp1.1\TaskAuthor.dll
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskAuthor\bin\Debug\netcoreapp1.1\TaskAuthor.pdb
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskAuthor\obj\Debug\netcoreapp1.1\TaskAuthor.csprojResolveAssemblyReference.cache
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskAuthor\obj\Debug\netcoreapp1.1\TaskAuthor.csproj.CoreCompileInputs.cache
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskAuthor\obj\Debug\netcoreapp1.1\TaskAuthor.AssemblyInfo.cs
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskAuthor\obj\Debug\netcoreapp1.1\TaskAuthor.dll
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskAuthor\obj\Debug\netcoreapp1.1\TaskAuthor.pdb

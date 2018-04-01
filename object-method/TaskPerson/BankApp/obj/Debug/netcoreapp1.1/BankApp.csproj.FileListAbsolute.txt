@@ -1,0 +1,6 @@
+C:\Dev\object-oriented-programming\object-method\TaskPerson\BankApp\bin\Debug\netcoreapp1.1\BankApp.deps.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\BankApp\bin\Debug\netcoreapp1.1\BankApp.runtimeconfig.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\BankApp\bin\Debug\netcoreapp1.1\BankApp.runtimeconfig.dev.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\BankApp\obj\Debug\netcoreapp1.1\BankApp.csprojResolveAssemblyReference.cache
+C:\Dev\object-oriented-programming\object-method\TaskPerson\BankApp\obj\Debug\netcoreapp1.1\BankApp.csproj.CoreCompileInputs.cache
+C:\Dev\object-oriented-programming\object-method\TaskPerson\BankApp\obj\Debug\netcoreapp1.1\BankApp.AssemblyInfo.cs

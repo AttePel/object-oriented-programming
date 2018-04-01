@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Dev\\object-oriented-programming\\object-method\\TaskPerson\\TaskTicket\\TaskTicket.csproj",
+      "projectUniqueName": "C:\\Dev\\object-oriented-programming\\object-method\\FixedFiles\\TaskTicket\\TaskTicket.csproj",
       "projectName": "TaskTicket",
-      "projectPath": "C:\\Dev\\object-oriented-programming\\object-method\\TaskPerson\\TaskTicket\\TaskTicket.csproj",
+      "projectPath": "C:\\Dev\\object-oriented-programming\\object-method\\FixedFiles\\TaskTicket\\TaskTicket.csproj",
       "packagesPath": "C:\\Users\\Atte\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\object-oriented-programming\\object-method\\TaskPerson\\TaskTicket\\obj\\",
+      "outputPath": "C:\\Dev\\object-oriented-programming\\object-method\\FixedFiles\\TaskTicket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Atte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7060,12 +7060,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {

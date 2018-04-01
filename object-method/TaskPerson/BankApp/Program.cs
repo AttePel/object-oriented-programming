@@ -41,7 +41,8 @@ namespace BankApp
 			//var endTime = DateTime.Today;
 			var endTime = new DateTime(2017, 12, 31);
 			var time = new TimeSpan(24 * 30 * 6, 0, 0);
-			var startTime = new DateTime(2017, 01, 01);//endTime.Date - time;
+			var startTime = new DateTime(2017, 01, 01);
+			//endTime.Date - time;
 			Console.WriteLine($"Tilipahatumat viimeisen vuoden ajalta: {startTime.ToShortDateString()}" +
 				$"-{endTime.ToShortDateString()}");
 

@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Dev\\object-oriented-programming\\object-method\\TaskPerson\\TextCar\\TextCar.csproj",
+      "projectUniqueName": "C:\\Dev\\object-oriented-programming\\object-method\\FixedFiles\\TextCar\\TextCar.csproj",
       "projectName": "TextCar",
-      "projectPath": "C:\\Dev\\object-oriented-programming\\object-method\\TaskPerson\\TextCar\\TextCar.csproj",
+      "projectPath": "C:\\Dev\\object-oriented-programming\\object-method\\FixedFiles\\TextCar\\TextCar.csproj",
       "packagesPath": "C:\\Users\\Atte\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\object-oriented-programming\\object-method\\TaskPerson\\TextCar\\obj\\",
+      "outputPath": "C:\\Dev\\object-oriented-programming\\object-method\\FixedFiles\\TextCar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Atte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7060,12 +7060,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {

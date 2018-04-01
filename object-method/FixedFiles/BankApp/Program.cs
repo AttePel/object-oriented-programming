@@ -21,7 +21,7 @@ namespace BankApp
 			for (int i = 0; i < 2; i++)
 			{
 				bank.AddTransactionForCustomer(customers[rnd.Next(0, 3)].AccountNumber,
-					new Transaction(rnd.Next(-3000, 5000),
+					new Transaction(rnd.Next(-3000, 4000),
 					new DateTime(2017, rnd.Next(1, 13), rnd.Next(1, 28))));
 			}
 
@@ -53,7 +53,7 @@ namespace BankApp
 			startTime, endTime), customers[2]);
 
 
-			Console.WriteLine("<Enter> lopettaa!");
+			Console.WriteLine(">Enter< lopettaa");
 			Console.ReadLine();
 		}
 

@@ -1,0 +1,6 @@
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskVehicle\bin\Debug\netcoreapp1.1\TaskVehicle.deps.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskVehicle\bin\Debug\netcoreapp1.1\TaskVehicle.runtimeconfig.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskVehicle\bin\Debug\netcoreapp1.1\TaskVehicle.runtimeconfig.dev.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskVehicle\obj\Debug\netcoreapp1.1\TaskVehicle.csprojResolveAssemblyReference.cache
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskVehicle\obj\Debug\netcoreapp1.1\TaskVehicle.csproj.CoreCompileInputs.cache
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskVehicle\obj\Debug\netcoreapp1.1\TaskVehicle.AssemblyInfo.cs

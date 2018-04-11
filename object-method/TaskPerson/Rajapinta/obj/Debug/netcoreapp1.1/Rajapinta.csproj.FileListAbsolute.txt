@@ -1,0 +1,11 @@
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\bin\Debug\netcoreapp1.1\Rajapinta.deps.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\bin\Debug\netcoreapp1.1\Rajapinta.runtimeconfig.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\bin\Debug\netcoreapp1.1\Rajapinta.runtimeconfig.dev.json
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\bin\Debug\netcoreapp1.1\Rajapinta.dll
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\bin\Debug\netcoreapp1.1\Rajapinta.pdb
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\obj\Debug\netcoreapp1.1\Rajapinta.csprojResolveAssemblyReference.cache
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\obj\Debug\netcoreapp1.1\Rajapinta.csproj.CoreCompileInputs.cache
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\obj\Debug\netcoreapp1.1\Rajapinta.AssemblyInfoInputs.cache
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\obj\Debug\netcoreapp1.1\Rajapinta.AssemblyInfo.cs
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\obj\Debug\netcoreapp1.1\Rajapinta.dll
+C:\Dev\object-oriented-programming\object-method\TaskPerson\Rajapinta\obj\Debug\netcoreapp1.1\Rajapinta.pdb

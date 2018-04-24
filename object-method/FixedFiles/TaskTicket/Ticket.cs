@@ -32,29 +32,29 @@ namespace TaskTicket
 			Console.WriteLine($"Syötä ikäsi");
 			string userInputAge = Console.ReadLine();
 			Age = int.Parse(userInputAge);
-			Console.WriteLine($"Oletko MTK:n jäsen? Syötä 1 = Kyllä tai 0 = Ei");
+			Console.WriteLine($"Oletko MTK:n jäsen? Syötä 1=Kyllä tai 0=Ei");
 			string userInputMTK = Console.ReadLine();
 			Member = double.Parse(userInputMTK);
-			Console.WriteLine($"Oletko varusmies? Syötä 1 = Kyllä tai 0 = Ei");
+			Console.WriteLine($"Oletko varusmies? Syötä 1=Kyllä tai 0=Ei");
 			string userInputSoldier = Console.ReadLine();
 			Soldier = double.Parse(userInputSoldier);
-			Console.WriteLine($"Oletko opiskelija? Syötä 1 = Kyllä tai 0 = Ei");
+			Console.WriteLine($"Oletko opiskelija? Syötä 1=Kyllä tai 0=Ei");
 			string userInputStudent = Console.ReadLine();
 			Student = double.Parse(userInputStudent);
 		}
 		public void ShowPersonInfo()
 		{
-			Console.WriteLine($"Ikäsi on: {Age}");
+			Console.WriteLine($"Ikä: {Age}");
 		}
 
 		public void Discount()
 		{
 			if (Age < 7)
-				Console.WriteLine($"Lipun hinta on:{Price * 0} euroa.");
+				Console.WriteLine($"Lipun hinta: {Price * 0} euroa.");
 			if (Age > 65)
-				Console.WriteLine($"Lipun hinta on: {Price * 0.50} euroa.");
+				Console.WriteLine($"Lipun hinta: {Price * 0.50} euroa.");
 			if (Age > 7 && Age <= 15)
-				Console.WriteLine($"Lipun hinta on: {Price * 0.50} euroa.");
+				Console.WriteLine($"Lipun hinta: {Price * 0.50} euroa.");
 			if (Age > 15 && Age < 65)
 			{
 				if (Soldier == 1)
@@ -69,11 +69,9 @@ namespace TaskTicket
 					{
 						Price = Price * 0.55;
 					}
-					Console.WriteLine($"Alennettu hintasi on {Price} euroa.");
+					Console.WriteLine($"Alennettu hinta on {Price} euroa.");
 				}
 			}
-
 		}
-
 	}
 }

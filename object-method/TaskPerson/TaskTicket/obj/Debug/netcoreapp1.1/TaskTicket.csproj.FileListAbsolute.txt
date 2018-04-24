@@ -8,3 +8,4 @@ C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskTicket\obj\Debug
 C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskTicket\obj\Debug\netcoreapp1.1\TaskTicket.AssemblyInfo.cs
 C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskTicket\obj\Debug\netcoreapp1.1\TaskTicket.dll
 C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskTicket\obj\Debug\netcoreapp1.1\TaskTicket.pdb
+C:\Dev\object-oriented-programming\object-method\TaskPerson\TaskTicket\obj\Debug\netcoreapp1.1\TaskTicket.AssemblyInfoInputs.cache
